@@ -1,0 +1,15 @@
+Here is the telescopes.py file that needs to be put in the ./setup directory of the pipeline installation. I had to modify the raw images with the following to make this work:
+-Remove blank spaces from file names
+
+$ for f in *; do mv "$f" `echo $f | tr ' ' '_'`; done
+
+-Remove dashes (-) from file names
+
+$ for f in *; do mv "$f" `echo $f | tr '-' '_'`; done
+
+-Replace .fts suffix with .fits
+
+$ for f in *.fts; do mv -- "$f" "${f%.fts}.fits"; done
+
+-Redefine INSTRUME header keyword
+        $ sethead *fits INSTRUME=‘PWFLI'

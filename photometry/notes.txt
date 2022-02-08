@@ -1,0 +1,16 @@
+Michael Mommert's photometrypipeline:
+https://photometrypipeline.readthedocs.io/en/latest/install.html
+
+photutils:
+https://photutils.readthedocs.io/en/stable/psf.html
+
+
+https://photutils.readthedocs.io/en/stable/api/photutils.psf.IterativelySubtractedPSFPhotometry.html#photutils.psf.IterativelySubtractedPSFPhotometry.do_photometry
+
+header info:
+https://docs.astropy.org/en/stable/io/fits/usage/headers.html
+
+
+measure read noise in ADU:
+http://astro.physics.uiowa.edu/~kaaret/2015f_a4850/Lab03_noise.html
+

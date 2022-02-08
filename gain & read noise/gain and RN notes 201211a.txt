@@ -1,0 +1,26 @@
+2020-12-11
+
+For gain data:
+	Set up MaxIm to record multiple flats, daytime sky, 340nm filter.
+	Image time: 1.0,1.2,1.4,2.0,2.5,3.0 seconds, 3 frames each
+	run $ collectGainData.sh
+		which executes multiple lines of:
+			$ ./gainEst2.py 'Autosave Image -000[1-3]flat30.fits' 34 >> gainData.txt
+		and reports the average counts, and difference frame variance, of the central 34x34 pixels of the frame
+			34 pixels was picked for the min error in the variance; presumably a flatter flat would allow this to be bigger
+	Read gainData.txt into Excel, do two-err fit
+	See Pereyra+ 2017, figure 7 (axes flipped)
+	Gain is 2.095 ± 0.075 e-/ADU
+
+For read-noise data:
+	Set up MaxIm to record multiple biases, and short darks
+	Image time: 0,1,2,5,10 sec, 5 frames each
+	run $ collectRNData.sh
+		which executes multiple lines of:
+			$ ../readNoiseEst2.py '*bias.fits' > output.txt
+		and reports 
+	See Pereyra+ 2017, figure 8
+	Read noise is 18.64 ± 0.670 e-
+
+Overall ref:
+Pereyra+ 2017, figure 8

@@ -1,0 +1,23 @@
+cd Abell_30 ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Clorinde ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Fireman ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Kitt_Peak ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Kn_40 ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Nansenia ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Sofievka ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Stevin ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Susi ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Tangshan ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Zvezdara ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Druzhba ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Joellama ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Jeffhall ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Philmassey ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Neugent ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Ciardi ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Sanborn ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Shkolnik ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Wasserman ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../Dunham ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ../van_Belle ; sethead *fits INSTRUME='PW1FLI' ; pp_run *.fits
+cd ..

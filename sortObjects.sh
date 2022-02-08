@@ -1,0 +1,11 @@
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Stevin
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Kitt_Peak
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Susi
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Kn_40
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Tangshan
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Zvezdara
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Clorinde
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Abell_30
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Sofievka
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Fireman
+/mnt/nfs/TiMo/scripts/createMoveInto.sh Nansenia

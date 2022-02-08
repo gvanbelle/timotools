@@ -1,0 +1,30 @@
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat10.fits Autosave Image -0002flat10.fits 12262.6669921875 5892.60498046875
+Autosave Image -0001flat10.fits Autosave Image -0003flat10.fits 11802.001953125 5751.96728515625
+Autosave Image -0002flat10.fits Autosave Image -0003flat10.fits 11520.97265625 5370.46533203125
+Autosave Image -000[1-3]flat10.fits 11861.880533854166 +- 305.74139978424773  ADUs  5671.67919921875 +- 220.59326927664793  ADUs
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat12.fits Autosave Image -0002flat12.fits 14287.46484375 6583.15478515625
+Autosave Image -0001flat12.fits Autosave Image -0003flat12.fits 13661.8388671875 6773.55810546875
+Autosave Image -0002flat12.fits Autosave Image -0003flat12.fits 13303.068359375 6509.251953125
+Autosave Image -000[1-3]flat12.fits 13750.790690104166 +- 406.7705575322231  ADUs  6621.98828125 +- 111.34171382381618  ADUs
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat14.fits Autosave Image -0002flat14.fits 16144.4345703125 7538.29638671875
+Autosave Image -0001flat14.fits Autosave Image -0003flat14.fits 15564.52734375 6960.583984375
+Autosave Image -0002flat14.fits Autosave Image -0003flat14.fits 14988.896484375 7478.58740234375
+Autosave Image -000[1-3]flat14.fits 15565.952799479166 +- 471.74752495803807  ADUs  7325.822591145833 +- 259.4105120084099  ADUs
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat20.fits Autosave Image -0002flat20.fits 21560.201171875 10839.251953125
+Autosave Image -0001flat20.fits Autosave Image -0003flat20.fits 20947.591796875 10212.2861328125
+Autosave Image -0002flat20.fits Autosave Image -0003flat20.fits 20124.3984375 10087.0986328125
+Autosave Image -000[1-3]flat20.fits 20877.397135416668 +- 588.2617562970978  ADUs  10379.545572916666 +- 329.0546505189769  ADUs
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat25.fits Autosave Image -0002flat25.fits 26048.19921875 12563.0517578125
+Autosave Image -0001flat25.fits Autosave Image -0003flat25.fits 25813.857421875 11844.216796875
+Autosave Image -0002flat25.fits Autosave Image -0003flat25.fits 24633.5703125 12413.580078125
+Autosave Image -000[1-3]flat25.fits 25498.542317708332 +- 619.0645883299765  ADUs  12273.6162109375 +- 309.7023714849085  ADUs
+#file1 file2 min max mean median stdev
+Autosave Image -0001flat30.fits Autosave Image -0002flat30.fits 29770.8359375 13841.025390625
+Autosave Image -0001flat30.fits Autosave Image -0003flat30.fits 29648.3046875 13987.423828125
+Autosave Image -0002flat30.fits Autosave Image -0003flat30.fits 28560.654296875 14029.0244140625
+Autosave Image -000[1-3]flat30.fits 29326.598307291668 +- 543.909396331482  ADUs  13952.4912109375 +- 80.62722456275644  ADUs
